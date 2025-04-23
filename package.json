@@ -4,8 +4,7 @@
   "description": "This project demonstrates how to build and secure a simple Node.js API using [Azure API Management (APIM)](https://learn.microsoft.com/en-us/azure/api-management/).",
   "main": "index.js",
   "scripts": {
-    "start": "node server.js",
-    "test": "node server.js"
+    "start": "node server.js"
   },
   "keywords": [],
   "author": "",
