@@ -1,0 +1,15 @@
+{
+  "name": "secure-product-api-with-azure-api-management",
+  "version": "1.0.0",
+  "description": "This project demonstrates how to build and secure a simple Node.js API using [Azure API Management (APIM)](https://learn.microsoft.com/en-us/azure/api-management/).",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^5.1.0"
+  }
+}
